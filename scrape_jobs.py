@@ -392,4 +392,226 @@ DASHBOARD_TEMPLATE = """<!DOCTYPE html>
     <p>Job Radar collects the newest embedded, VLSI, electronics, hardware and CAE openings across Chennai, Bengaluru, Coimbatore and remote India, then scores each one so the best matches surface first.</p>
     <div class="hero-stats">
       <div class="hs"><b id="total">0</b><span>open roles</span></div>
-      <div class
+      <div class="hs"><b id="hot">0</b><span>hot matches</span></div>
+      <div class="hs"><b id="companies">0</b><span>companies hiring</span></div>
+    </div>
+    <a class="cta" href="#jobs">Browse jobs</a>
+  </div>
+</header>
+
+<main class="wrap" id="jobs">
+  <div class="toolbar" role="search">
+    <input id="search" type="search" placeholder="Search title, company or skill..." aria-label="Search jobs">
+    <select id="sort" aria-label="Sort jobs">
+      <option value="fit">Best fit first</option>
+      <option value="new">Newest first</option>
+      <option value="company">Company A-Z</option>
+    </select>
+  </div>
+  <div class="chiprows" id="fit-chips" role="group" aria-label="Filter by fit">
+    <button class="chip active" data-g="fit" data-f="all">All</button>
+    <button class="chip" data-g="fit" data-f="hot">Hot</button>
+    <button class="chip" data-g="fit" data-f="good">Good</button>
+    <button class="chip" data-g="fit" data-f="saved">Saved</button>
+  </div>
+  <div class="chiprows" id="area-chips" role="group" aria-label="Filter by area">
+    <button class="chip active" data-g="area" data-f="all">Everywhere</button>
+    <button class="chip" data-g="area" data-f="Chennai">Chennai</button>
+    <button class="chip" data-g="area" data-f="Bengaluru">Bengaluru</button>
+    <button class="chip" data-g="area" data-f="Coimbatore">Coimbatore</button>
+    <button class="chip" data-g="area" data-f="Remote">Remote</button>
+  </div>
+  <div class="chiprows" id="date-chips" role="group" aria-label="Filter by date posted">
+    <button class="chip active" data-g="date" data-f="any">Any time</button>
+    <button class="chip" data-g="date" data-f="1">Past 24 hours</button>
+    <button class="chip" data-g="date" data-f="3">Past 3 days</button>
+    <button class="chip" data-g="date" data-f="7">Past week</button>
+  </div>
+  <p id="count" aria-live="polite"></p>
+  <section id="list" aria-label="Job listings"></section>
+
+  <section class="insights" id="insights" aria-label="Insights">
+    <h2>Insights</h2>
+    <div class="insight-grid">
+      <div class="panel"><h4>Jobs by area</h4><div id="chart"></div></div>
+      <div class="panel"><h4>Top companies hiring</h4><div id="topco"></div></div>
+    </div>
+  </section>
+
+  <section class="about" id="about" aria-label="About">
+    <h2>About Job Radar</h2>
+    <p>Job Radar is a personal job tracker built and maintained by Santhosh V, a final-year B.E. ECE student. Every morning at 6 AM IST, a GitHub Actions workflow collects the latest postings from LinkedIn and Indeed using Python (JobSpy), removes duplicates, filters out senior and unrelated roles, and scores what remains for fresher-ECE fit.</p>
+    <p>Scores run from 0 to 99: Hot (80+) means a strong title match on core ECE skills with fresher-friendly signals; Good (49-79) is worth a look; Maybe covers everything else. Listings always link back to the original source, where you can verify details and apply.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="foot-in">
+    Sources: LinkedIn and Indeed. All job listings belong to their original posters - verify the role, salary and company on the source site before applying. Salary and job type are shown only when the listing itself provides them.<br>
+    Last refreshed __UPDATED__. Built with Python, JobSpy, pandas and GitHub Actions.
+  </div>
+</footer>
+
+<script>
+const JOBS = __JOBS_JSON__;
+const state = { fit: "all", area: "all", date: "any", sort: "fit", q: "" };
+const saved = new Set(JSON.parse(localStorage.getItem("jr-saved") || "[]"));
+const el = id => document.getElementById(id);
+
+el("total").textContent = JOBS.length;
+el("hot").textContent = JOBS.filter(j => j.tier === "hot").length;
+el("companies").textContent = new Set(JOBS.map(j => j.company)).size;
+
+function esc(s){ const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
+function daysAgo(ds){
+  if (!ds) return 999;
+  const d = new Date(ds + "T00:00:00");
+  if (isNaN(d)) return 999;
+  return Math.floor((Date.now() - d.getTime()) / 86400000);
+}
+function ago(ds){
+  const n = daysAgo(ds);
+  if (n === 0) return "Today";
+  if (n === 1) return "Yesterday";
+  if (n <= 13) return n + " days ago";
+  return "2+ weeks ago";
+}
+function ring(score, t){
+  const c = 2 * Math.PI * 22;
+  const off = c * (1 - score / 100);
+  const col = t === "hot" ? "#c2410c" : t === "good" ? "#0a66c2" : "#8a94a1";
+  return '<div class="fit"><div class="ring"><svg width="56" height="56" viewBox="0 0 56 56" aria-hidden="true">' +
+    '<circle cx="28" cy="28" r="22" stroke="#e8ecf1" stroke-width="5" fill="none"/>' +
+    '<circle cx="28" cy="28" r="22" stroke="' + col + '" stroke-width="5" fill="none" stroke-linecap="round" stroke-dasharray="' + c.toFixed(1) + '" stroke-dashoffset="' + off.toFixed(1) + '" transform="rotate(-90 28 28)"/>' +
+    '</svg><div class="num" style="color:' + col + '">' + score + '<small>/ 100</small></div></div>' +
+    '<span class="tw ' + t + '">' + t.toUpperCase() + '</span></div>';
+}
+function logo(j){
+  if (j.logo) return '<div class="logo"><img src="' + esc(j.logo) + '" data-co="' + esc(j.company) + '" alt="' + esc(j.company) + ' logo" loading="lazy" onerror="logoFallback(this)"></div>';
+  return '<div class="logo" style="' + monoStyle(j.company) + '">' + esc((j.company || "?").trim().charAt(0).toUpperCase() || "?") + '</div>';
+}
+function logoFallback(img){ img.parentNode.innerHTML = monogram(img.dataset.co || "?"); }
+function monoStyle(name){
+  let h = 0; for (const c of (name || "?")) h = (h * 31 + c.charCodeAt(0)) % 360;
+  return 'background:hsl(' + h + ',38%,92%);color:hsl(' + h + ',45%,38%)';
+}
+function monogram(name){
+  return '<span style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;' + monoStyle(name) + '">' + esc((name || "?").trim().charAt(0).toUpperCase() || "?") + '</span>';
+}
+function toggleSave(id, btn){
+  if (saved.has(id)) { saved.delete(id); btn.classList.remove("saved"); btn.textContent = "♡"; btn.setAttribute("aria-label", "Save job"); }
+  else { saved.add(id); btn.classList.add("saved"); btn.textContent = "♥"; btn.setAttribute("aria-label", "Unsave job"); }
+  localStorage.setItem("jr-saved", JSON.stringify([...saved]));
+  if (state.fit === "saved") render();
+}
+function filtered(){
+  let list = JOBS.filter(j => {
+    if (state.fit === "saved" && !saved.has(j.id)) return false;
+    if (["hot", "good"].includes(state.fit) && j.tier !== state.fit) return false;
+    if (state.area !== "all" && j.area !== state.area) return false;
+    if (state.date !== "any" && daysAgo(j.date_posted) > parseInt(state.date)) return false;
+    if (state.q && !(j.title + " " + j.company + " " + j.skills.join(" ")).toLowerCase().includes(state.q)) return false;
+    return true;
+  });
+  if (state.sort === "new") list.sort((a, b) => daysAgo(a.date_posted) - daysAgo(b.date_posted));
+  else if (state.sort === "company") list.sort((a, b) => a.company.localeCompare(b.company));
+  return list;
+}
+function card(j){
+  const facts = [j.location, j.type, j.remote ? "Remote ok" : "", j.salary].filter(Boolean)
+    .map(f => '<span class="' + (f === j.salary && j.salary ? "salary" : "") + '">' + esc(f) + "</span>").join("");
+  return '<article class="job ' + j.tier + '">' +
+    '<div class="job-top">' + logo(j) +
+      '<div class="job-main">' +
+        '<div class="job-title-row"><h3><a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a></h3></div>" +
+        '<div class="company-line">' + esc(j.company) + (j.industry ? " · " + esc(j.industry) : "") + '</div>' +
+        '<div class="facts">' + facts + '<span class="ago">' + ago(j.date_posted) + ' · ' + esc(j.site) + "</span></div>" +
+        (j.skills.length ? '<div class="tags">' + j.skills.map(s => '<span class="tag">' + esc(s) + "</span>").join("") + "</div>" : "") +
+        (j.snippet ? '<p class="snippet" id="snip-' + j.id + '">' + esc(j.snippet) + '…</p>' : "") +
+        '<div class="job-actions">' +
+          '<a class="apply" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply</a>' +
+          '<button class="save' + (saved.has(j.id) ? " saved" : "") + '" data-id="' + j.id + '" aria-label="' + (saved.has(j.id) ? "Unsave job" : "Save job") + '">' + (saved.has(j.id) ? "♥" : "♡") + "</button>" +
+          (j.snippet ? '<button class="more-btn" data-id="' + j.id + '">Details</button>' : "") +
+        "</div>" +
+      "</div>" +
+      '<div class="job-side">' + ring(j.score, j.tier) + "</div>" +
+    "</div></article>";
+}
+function render(){
+  const listEl = el("list");
+  if (JOBS.length === 0) {
+    el("count").textContent = "";
+    listEl.innerHTML = '<div class="empty"><b>No fresh jobs today.</b><br>New postings land every morning - check back after 6 AM IST.</div>';
+    return;
+  }
+  const list = filtered();
+  el("count").textContent = "Showing " + list.length + " of " + JOBS.length + " jobs";
+  listEl.innerHTML = list.length ? list.map(card).join("")
+    : '<div class="empty">No jobs match these filters. Try widening them.</div>';
+}
+document.querySelectorAll(".chip").forEach(c => c.onclick = () => {
+  document.querySelectorAll('.chip[data-g="' + c.dataset.g + '"]').forEach(x => x.classList.remove("active"));
+  c.classList.add("active");
+  state[c.dataset.g] = c.dataset.f;
+  render();
+});
+el("list").addEventListener("click", e => {
+  const sv = e.target.closest(".save");
+  if (sv) { toggleSave(sv.dataset.id, sv); return; }
+  const mb = e.target.closest(".more-btn");
+  if (mb) {
+    const s = document.getElementById("snip-" + mb.dataset.id);
+    if (s) { s.classList.toggle("open"); mb.textContent = s.classList.contains("open") ? "Show less" : "Details"; }
+  }
+});
+el("search").oninput = e => { state.q = e.target.value.toLowerCase(); render(); };
+el("sort").onchange = e => { state.sort = e.target.value; render(); };
+
+(function drawInsights(){
+  const areas = ["Chennai", "Bengaluru", "Coimbatore", "Remote"];
+  const counts = areas.map(a => JOBS.filter(j => j.area === a).length);
+  const maxv = Math.max(1, ...counts);
+  el("chart").innerHTML = areas.map((a, i) =>
+    '<div class="bar-row"><span class="bl">' + a + '</span><div class="bar-track"><div class="bar-fill" data-w="' +
+    (counts[i] / maxv * 100).toFixed(0) + '"></div></div><span class="bn">' + counts[i] + "</span></div>").join("");
+  const co = {};
+  JOBS.forEach(j => { if (j.company) co[j.company] = (co[j.company] || 0) + 1; });
+  const top = Object.entries(co).sort((a, b) => b[1] - a[1]).slice(0, 6);
+  el("topco").innerHTML = top.length ? top.map(([n, c]) => '<div class="co-row"><span>' + esc(n) + "</span><b>" + c + "</b></div>").join("") : '<div class="co-row"><span>No data yet</span></div>';
+  setTimeout(() => document.querySelectorAll(".bar-fill").forEach(b => b.style.width = b.dataset.w + "%"), 80);
+})();
+
+render();
+</script>
+</body>
+</html>
+"""
+
+
+def main():
+    print("Collecting jobs...")
+    df = collect()
+    records = build_records(df) if len(df) else []
+    print(f"Total unique jobs after filtering: {len(records)}")
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/jobs.json", "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
+    pd.DataFrame(records).to_csv("jobs.csv", index=False)
+
+    ist = timezone(timedelta(hours=5, minutes=30))
+    now = datetime.now(ist)
+    html = (DASHBOARD_TEMPLATE
+            .replace("__JOBS_JSON__", json.dumps(records, ensure_ascii=False))
+            .replace("__UPDATED_SHORT__", now.strftime("%d %b"))
+            .replace("__UPDATED__", now.strftime("%d %b %Y, %I:%M %p IST")))
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html)
+    print("Dashboard written to index.html")
+
+
+if __name__ == "__main__":
+    main()
+
+
+# END OF FILE
