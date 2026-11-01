@@ -1,5 +1,26 @@
 [
   {
+    "id": "3a0ac75bc7",
+    "title": "Trainee Engineer – Electronics & Instrumentation (Freshers)",
+    "company": "VJSP INNOVATIVE VENTURES PRIVATE LIMITED",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=9f6cf7fb5dd2b5cb",
+    "date_posted": "2026-10-31",
+    "score": 99,
+    "tier": "hot",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "CAN"
+    ],
+    "snippet": "**Job Description:** We are hiring Trainee Engineers in Electronics & Instrumentation. Selected candidates will work on electrical and instrumentation-related tasks and projects. Responsibilities: * Assist in instrumentation and electrical systems * Support Project related tasks "
+  },
+  {
     "id": "6783946d24",
     "title": "Embedded Engineer Trainee",
     "company": "Hejaaz Technologies",
@@ -301,6 +322,55 @@
     "snippet": ""
   },
   {
+    "id": "57ec766dfd",
+    "title": "Embedded Firmware Engineer Experienced ( 2- 4) Years",
+    "company": "KritiLabs Technologies",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=1ac6072d01b4bd2b",
+    "date_posted": "2026-10-27",
+    "score": 86,
+    "tier": "hot",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "₹2.6-4.1 LPA",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "Embedded C",
+      "ASIC",
+      "Linux",
+      "CAN",
+      "I2C"
+    ],
+    "snippet": "Job description: * Design, develop, and maintain firmware for embedded systems and microcontroller-based devices. * **Embeded Lenux and BootLoader skillset is Must Have.** * Work with hardware schematics and datasheets to understand system requirements and constraints. * Develop "
+  },
+  {
+    "id": "4ace055e27",
+    "title": "Electronics Engineer/PCB Design Engineer",
+    "company": "RAMESHWAR ENGINEERING",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=daa64258433cddd4",
+    "date_posted": "2026-10-31",
+    "score": 83,
+    "tier": "hot",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "Embedded C",
+      "IoT",
+      "PCB Design",
+      "CAN"
+    ],
+    "snippet": "About us Seetharam Mechatronics Pvt ltd is a manufacturer of Sensors & Transducers, Signal Conditioning Electronics and IOT Products & Solutions. Company has in-house design and development capabilities for IOT Hardware and Software. **JOB DESCRIPTION** 1. Experience in Electroni"
+  },
+  {
     "id": "ec03f987c0",
     "title": "CAE/FEA Engineer",
     "company": "KNOWLEDGE STREAM INDIA",
@@ -363,6 +433,25 @@
       "ANSYS",
       "FEA"
     ],
+    "snippet": ""
+  },
+  {
+    "id": "70109c82a6",
+    "title": "Associate Engineer - WLAN Firmware",
+    "company": "Qualcomm",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4484852650",
+    "date_posted": "2026-10-30",
+    "score": 74,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
     "snippet": ""
   },
   {
@@ -461,10 +550,10 @@
     "id": "6e5f518a3e",
     "title": "Experienced Engineer - ASIC Verification",
     "company": "Ericsson",
-    "location": "TN, India",
+    "location": "Chennai, Tamil Nadu, India",
     "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=14cbd923e447aa71",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4483667646",
     "date_posted": "2026-10-27",
     "score": 74,
     "tier": "good",
@@ -472,15 +561,11 @@
     "remote": false,
     "salary": "",
     "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/14954b1dc7a89a4721337eb2145894a1",
+    "logo": "",
     "skills": [
-      "Verilog",
-      "SystemVerilog",
-      "UVM",
-      "ASIC",
-      "ARM"
+      "ASIC"
     ],
-    "snippet": "**Join our Team** ----------------- **About this opportunity:** We are starting a new Silicon R&D center in Bangalore. Join our team as we pioneer the IPs that power the digital ASICs of tomorrow's mobile standards. Ericsson System on a Chip (SoC) devices are custom-made for mobi"
+    "snippet": ""
   },
   {
     "id": "823ee65c26",
@@ -523,6 +608,56 @@
     "logo": "",
     "skills": [],
     "snippet": ""
+  },
+  {
+    "id": "eb6df2bf97",
+    "title": "Embedded Engineer-Robotics",
+    "company": "Visco Technologies",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=1e2d0f58551dbc5a",
+    "date_posted": "2026-10-27",
+    "score": 68,
+    "tier": "good",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "Embedded C",
+      "C++",
+      "Python",
+      "Linux",
+      "CAN"
+    ],
+    "snippet": "Embedded Engineer Company: Visco Technologies Pvt. Ltd. Location: Chennai Employment Type: Full-Time Experience: 2–5 Years Qualification: Diploma / B.E. / B.Tech in ECE, EEE, Instrumentation, Mechatronics, or related field About Visco Technologies Visco Technologies develops long"
+  },
+  {
+    "id": "8b2c9ead5a",
+    "title": "Hardware Engineer Experienced Electronics (2-4 ) Years",
+    "company": "KritiLabs Technologies",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=9fe5b79e9af3d0c2",
+    "date_posted": "2026-10-27",
+    "score": 68,
+    "tier": "good",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "I2C",
+      "SPI",
+      "UART",
+      "Signal Processing",
+      "RF"
+    ],
+    "snippet": "Job description: **Summary** As an Electronics Hardware Engineer, you will be responsible for the design, development, and testing of electronic hardware components and systems. You will work closely with cross-functional teams to create innovative electronic solutions that meet "
   },
   {
     "id": "95366cf545",
@@ -588,6 +723,31 @@
       "ASIC"
     ],
     "snippet": ""
+  },
+  {
+    "id": "b8d3ca47f4",
+    "title": "PCB Designer / PCB Layout Designer",
+    "company": "BARIFLO CYBERNETICS PRIVATE LIMITED",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=0ac1e16f1f89ac32",
+    "date_posted": "2026-10-25",
+    "score": 65,
+    "tier": "good",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "IoT",
+      "PCB Design",
+      "Altium",
+      "KiCad",
+      "CAN"
+    ],
+    "snippet": "**JOB DESCRIPTION – PCB DESIGN ENGINEER** **Position:** PCB Design Engineer **Department:** Electronics Hardware & R&D **Job Location:** Chennai, Tamil Nadu (On-site) **Experience:** Minimum 2 Years **Qualification:** B.Tech / M.Tech in Electrical Engineering, Electronics, Electr"
   },
   {
     "id": "34f98fad4f",
@@ -656,6 +816,25 @@
     "snippet": ""
   },
   {
+    "id": "ac611e9c6e",
+    "title": "Electronics Design Engineer",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4477805221",
+    "date_posted": "2026-10-31",
+    "score": 59,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
+  },
+  {
     "id": "66c19568c9",
     "title": "Digital Electronics Design Engineer (Avionics)",
     "company": "Thales",
@@ -715,27 +894,63 @@
     "snippet": ""
   },
   {
-    "id": "13a0c83a6b",
-    "title": "Electronic PCB Design Engineer",
-    "company": "Flywheels Embedded Research",
-    "location": "KA, India",
-    "area": "Bengaluru",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=c95a1a3bb0bc780c",
-    "date_posted": "2026-10-24",
-    "score": 56,
+    "id": "f9fb0a07ac",
+    "title": "Embedded Software Engineer – Automotive Systems",
+    "company": "Aptiv",
+    "location": "Chennai, Tamil Nadu, India",
+    "area": "Chennai",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4434263323",
+    "date_posted": "2026-10-31",
+    "score": 53,
     "tier": "good",
-    "type": "Contract",
+    "type": "",
     "remote": false,
     "salary": "",
     "industry": "",
     "logo": "",
+    "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "618adfbac9",
+    "title": "Automotive Embedded Cybersecurity Engineer (f/m/x)",
+    "company": "Groupe SII",
+    "location": "KA, India",
+    "area": "Bengaluru",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=10f8de2b0e4fe14b",
+    "date_posted": "2026-10-31",
+    "score": 53,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/620b1e993c08160c247b976b2a3c402f",
     "skills": [
-      "PCB Design",
-      "Altium",
-      "KiCad"
+      "Embedded C"
     ],
-    "snippet": "**Position:** Electronic PCB Design Engineer **Location:** Bengaluru **Employment Type:** Contract to Hire **Experience Level:** 2-4 Years **JOB Code**: EHEA-002 **Key Responsibilities:** * **PCB Layout Design:** Design and develop PCB layouts according to project specifications "
+    "snippet": "* Regular, * Senior * Hybrydowa, * Stacjonarna * Bangalore **Technologie i narzędzia** --------------------------- Wymagane Cyberbezpieczeństwo C dla systemów wbudowanych Bootloader SWC OTA (Over-The-Air Update Mechanisms) Mile widziane TISoC Dołącz do zespołu pracującego nad roz"
+  },
+  {
+    "id": "a84c255018",
+    "title": "Engineer- Firmware",
+    "company": "Eaton",
+    "location": "Pune Division, Maharashtra, India",
+    "area": "Remote",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4483936598",
+    "date_posted": "2026-10-31",
+    "score": 53,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
   },
   {
     "id": "cd8cf3b6df",
@@ -776,29 +991,26 @@
     "snippet": ""
   },
   {
-    "id": "e5410c0357",
-    "title": "Embedded Software Engineer",
-    "company": "Hejaaz Technologies",
+    "id": "afdff9f891",
+    "title": "HARDWARE DESIGN Engineer",
+    "company": "ARI",
     "location": "TN, India",
     "area": "Chennai",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=d072ff921a491445",
+    "url": "https://in.indeed.com/viewjob?jk=670f86645ff22e6a",
     "date_posted": "2026-10-29",
     "score": 53,
     "tier": "good",
-    "type": "Full-time",
+    "type": "",
     "remote": false,
     "salary": "",
-    "industry": "",
+    "industry": "Auto",
     "logo": "",
     "skills": [
-      "C++",
-      "CAN",
-      "I2C",
-      "SPI",
-      "UART"
+      "PCB Design",
+      "RF"
     ],
-    "snippet": "* Develop and maintain bare-metal embedded firmware using C/C++. * Program microcontrollers such as STM32, ESP32 and other embedded platforms. * Develop firmware without an operating system (bare-metal programming). * Configure and program hardware peripherals, including GPIO, AD"
+    "snippet": "3 - 5 years 15 - 30 days Chennai, bangalore C, Pdlc, R **Posted:** *14-Sep-2026 7:00 PM* Job Description Job Title: PCB DFM/DFA Engineer Job Overview: The PCB DFM/DFA Engineer will be responsible for ensuring PCB designs and assemblies are optimized for manufacturability, assembl"
   },
   {
     "id": "a52b9d3d9e",
@@ -860,6 +1072,31 @@
     "logo": "",
     "skills": [],
     "snippet": ""
+  },
+  {
+    "id": "e7fd0d82c1",
+    "title": "Firmware Engineer II",
+    "company": "Cadence Design Systems",
+    "location": "KA, India",
+    "area": "Bengaluru",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=54966e543486b051",
+    "date_posted": "2026-10-29",
+    "score": 53,
+    "tier": "good",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/076158ba906802dadf50bd8f892db739",
+    "skills": [
+      "C++",
+      "Python",
+      "FEA",
+      "CAN",
+      "Signal Processing"
+    ],
+    "snippet": "**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.** ----------------------------------------------------------------------------------------------------------------- Job Description ***Design Engineer II*** *This is an"
   },
   {
     "id": "0d8c218c2e",
@@ -1122,6 +1359,27 @@
     "snippet": "**Technical Trainer (Faculty) – Embedded** ------------------------------------------ #### **About Cranes Varsity :** Cranes Varsity is a pioneer Technical Training institute turned EdTech Platform offering Technology educational services for over 24 years. Being a trusted partne"
   },
   {
+    "id": "a75e67adc0",
+    "title": "ASIC Methodology, Flow and Integration Engineer",
+    "company": "NVIDIA",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4483269713",
+    "date_posted": "2026-10-27",
+    "score": 53,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "ASIC"
+    ],
+    "snippet": ""
+  },
+  {
     "id": "6f424534b6",
     "title": "Tester II - Embedded Testing",
     "company": "UST",
@@ -1222,37 +1480,35 @@
     "snippet": "**Responsibilities include but are not limited to:** * Meets objectives needed for safety-certified software for aerospace applications per DO-178C and/or other customer-specific objectives. * Applies knowledge of software certification to ensure subsupplier compliance to DO178C "
   },
   {
-    "id": "d3e2b26a6b",
-    "title": "Hardware Design Engineer",
-    "company": "COUNTAI PRIVATE LIMITED",
+    "id": "b2a40ce514",
+    "title": "CAE Analyst – Crash & Safety/NVH",
+    "company": "Copes Tech India Pvt Ltd",
     "location": "TN, India",
-    "area": "Coimbatore",
+    "area": "Chennai",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=f1e4609f522e5c66",
-    "date_posted": "2026-10-24",
-    "score": 53,
+    "url": "https://in.indeed.com/viewjob?jk=d279473cee9c0fb3",
+    "date_posted": "2026-10-31",
+    "score": 49,
     "tier": "good",
-    "type": "",
+    "type": "Full-time",
     "remote": false,
-    "salary": "₹2.8-13.9 LPA",
+    "salary": "₹6.0+ LPA",
     "industry": "",
-    "logo": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28d8af338e676eef0c2a2e92f59c5a73",
     "skills": [
-      "PCB Design",
-      "Linux",
-      "CAN"
+      "HyperMesh"
     ],
-    "snippet": ">> APPLY ON OUR CAREERS PAGE FOR PRIORITY REVIEW << Applications made on our own careers page are reviewed FIRST. It takes about 10 minutes: counton.ai/careers/senior-hardware-design-engineer (or go to counton.ai/careers and choose \"Senior Hardware Design Engineer\") -------------"
+    "snippet": "Copes Tech is looking for talented and experienced automotive engineering professionals to join exciting projects in Crash & Safety Analysis and NVH Simulation. If you have hands-on experience in automotive CAE and are looking for your next career opportunity, we would love to co"
   },
   {
-    "id": "68848afa3e",
-    "title": "CAE Analyst – Crash & Safety/NVH",
-    "company": "COPES Tech India Private Limited",
+    "id": "42b5bb475f",
+    "title": "CAE- MBD",
+    "company": "SEGULA Technologies",
     "location": "Chennai, Tamil Nadu, India",
     "area": "Chennai",
     "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4484838570",
-    "date_posted": "2026-10-30",
+    "url": "https://www.linkedin.com/jobs/view/4448749516",
+    "date_posted": "2026-10-31",
     "score": 49,
     "tier": "good",
     "type": "",
@@ -1411,23 +1667,25 @@
     "snippet": "**Job ID** 2026-19510 **Date posted** Oct. 27, 2026 **Location** Bengaluru, India **Category** Hardware Engineering, Design Engineering Job Overview: We are looking for a Physical Engineer specialized in building with 1–2 years of relevant experience to join our SoC implementatio"
   },
   {
-    "id": "be8e7c3d26",
-    "title": "Advanced Engineer - CAE Simulation",
-    "company": "Autoliv",
-    "location": "Singahalli, Karnataka, India",
-    "area": "Bengaluru",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4483767830",
-    "date_posted": "2026-10-27",
+    "id": "f83571710d",
+    "title": "Physical Design - Engineer",
+    "company": "Qualcomm",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=39bafd188a1b8c39",
+    "date_posted": "2026-10-26",
     "score": 49,
     "tier": "good",
     "type": "",
     "remote": false,
     "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [],
-    "snippet": ""
+    "industry": "Computers And Electronics",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/badc0b836563d31ae5cd80092a302a94",
+    "skills": [
+      "CAN"
+    ],
+    "snippet": "**Company:** ------------ Qualcomm India Private Limited **Job Area:** ------------- Engineering Group, Engineering Group > Hardware Engineering **General Summary:** * Physical Implementation activities for Sub systems which includes Floor-planning, Place and Route, CTS, Formal v"
   },
   {
     "id": "e2451d50c3",
@@ -1454,27 +1712,6 @@
     "snippet": "**Job Title:** CAE Engineer **Location:** Chennai **Experience:** 2+Years **Job Responsibilities** * Perform structural, thermal, and vibration analysis using CAE simulation tools. * Conduct Finite Element Analysis (FEA) to evaluate product strength, durability, and performance. "
   },
   {
-    "id": "089236c562",
-    "title": "FEA Engineer",
-    "company": "Capgemini Engineering",
-    "location": "Bengaluru, Karnataka, India",
-    "area": "Bengaluru",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4483547520",
-    "date_posted": "2026-10-26",
-    "score": 49,
-    "tier": "good",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "FEA"
-    ],
-    "snippet": ""
-  },
-  {
     "id": "7b057d285c",
     "title": "FPGA Developer",
     "company": "Soliton Technologies",
@@ -1493,25 +1730,6 @@
     "skills": [
       "FPGA"
     ],
-    "snippet": ""
-  },
-  {
-    "id": "a380d5faae",
-    "title": "IO and Mixed Signal Circuit Design Engineer",
-    "company": "Broadcom",
-    "location": "Bengaluru, Karnataka, India",
-    "area": "Bengaluru",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4455606588",
-    "date_posted": "2026-10-25",
-    "score": 49,
-    "tier": "good",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [],
     "snippet": ""
   },
   {
@@ -1534,31 +1752,6 @@
       "FEA"
     ],
     "snippet": ""
-  },
-  {
-    "id": "61ba17d47f",
-    "title": "Controls PLC / Robotics Engineer",
-    "company": "SynapseRobotics",
-    "location": "TN, India",
-    "area": "Coimbatore",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=4d4fbedc92d89f46",
-    "date_posted": "2026-10-31",
-    "score": 46,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "ASIC",
-      "CAN",
-      "AutoCAD",
-      "PLC",
-      "RF"
-    ],
-    "snippet": "## Controls / Robotics Engineer \\*\\*Company:\\*\\* Synapse Robotics \\*\\*Department:\\*\\* Electrical Design & Controls \\*\\*Employment Type:\\*\\* Full-time, Permanent \\*\\*Qualification:\\*\\* Diploma / B.E. / B.Tech in EEE, EIE, Mechatronics, Robotics and Automation, or a relevant engine"
   },
   {
     "id": "23e3257740",
@@ -1586,6 +1779,31 @@
     "snippet": "# JOB DESCRIPTION ## Electrical Design Engineer / Diploma Engineer – EPLAN & AutoCAD \\*\\*Employment Type:\\*\\* Full-time, Permanent Level1 or Level2 \\*\\*Qualification:\\*\\* B.E or Diploma in Electrical and Electronics Engineering \\*\\*Experience:\\*\\* 1–2 years preferred; freshers wi"
   },
   {
+    "id": "59694f8a72",
+    "title": "Forward Deployed Engineer Intern",
+    "company": "mhtechin",
+    "location": "Remote, India",
+    "area": "Remote",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=80f249a874410709",
+    "date_posted": "2026-10-31",
+    "score": 46,
+    "tier": "maybe",
+    "type": "Internship",
+    "remote": true,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "Python",
+      "ASIC",
+      "CAN",
+      "SPI",
+      "RF"
+    ],
+    "snippet": "**Forward Deployed Engineer Intern** ==================================== ### **Off-Campus Internship Drive | Batch 2026 & 2027** **Company:** MHTECHIN **Job Type:** Internship **Work Mode:** 100% Remote / Work From Home **Eligible Batches:** 2026 and 2027 **Experience:** Fresher"
+  },
+  {
     "id": "96e8b5d635",
     "title": "Career Gap Engineers - BE/B.Tech/Diploma",
     "company": "Delta T",
@@ -1605,51 +1823,6 @@
       "CAN"
     ],
     "snippet": "**Job Summary** We are looking for motivated **Career Gap** and **Fresher** candidates to build successful careers in the **Facility Management (O&M)** industry. This is an excellent opportunity for **BE/B.Tech/Diploma** graduates to restart their careers in core engineering role"
-  },
-  {
-    "id": "256a2135b9",
-    "title": "Junior MEP Engineer",
-    "company": "Delta T",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=9e60932058210e71",
-    "date_posted": "2026-10-30",
-    "score": 46,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a9399193804ecf5d7eab7cd33ff5df94",
-    "skills": [
-      "ASIC",
-      "CAN"
-    ],
-    "snippet": "**Job Summary** We are looking for motivated and enthusiastic **Junior MEP Engineers**. This opportunity is ideal for Freshers and Career Gap candidates who are eager to build a career in Mechanical, Electrical, and Plumbing (MEP) Engineering, Building Services, and Construction "
-  },
-  {
-    "id": "362e64dcf6",
-    "title": "Junior Electrical Engineer",
-    "company": "Delta T",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=851b8d26cb58633b",
-    "date_posted": "2026-10-30",
-    "score": 46,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a9399193804ecf5d7eab7cd33ff5df94",
-    "skills": [
-      "ASIC",
-      "CAN",
-      "RF"
-    ],
-    "snippet": "**Job Summary** We are looking for enthusiastic and motivated Junior Electrical Engineers who are eager to build their careers in the Electrical Engineering industry. This opportunity is ideal for Freshers and Career Gap candidates. **Key Responsibilities** * Perform operation an"
   },
   {
     "id": "afaaee7e43",
@@ -1695,28 +1868,6 @@
     "snippet": ""
   },
   {
-    "id": "420d13bedf",
-    "title": "Configuration & Installation Engineer",
-    "company": "( NEOTRACK ) NEOSAY TECHNOLOGIES & SOLUTIONS PRIVATE LIMITED",
-    "location": "TN, India",
-    "area": "Coimbatore",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=2a0d1274b4675fc4",
-    "date_posted": "2026-10-29",
-    "score": 46,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "ASIC",
-      "RF"
-    ],
-    "snippet": "NeoFleet, powered by NeoTrack, is urgently hiring **2 Configuration & Installation Engineers** to join our growing team. Freshers are welcome! We provide training and hands-on experience to help you develop your technical skills and build a successful career. Key Responsibilities"
-  },
-  {
     "id": "e01703ee7b",
     "title": "Electrical & Instrumentation Designer ,Asset Design",
     "company": "Gradiant",
@@ -1753,6 +1904,81 @@
     "logo": "",
     "skills": [],
     "snippet": "Timbertruss Design Pvt. Ltd. is a trusted name in the Australian construction industry, delivering superior-quality Prefab Trusses, Wall Frames, Floor Panels, and Posi Struts. We specialize in engineered construction components that ensure innovation, quality, and efficiency. **N"
+  },
+  {
+    "id": "3c9f650766",
+    "title": "Robotics Engineering Intern — Limitless Robotics",
+    "company": "Zgrow Solutions Private Limited",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=6402f60358d9969b",
+    "date_posted": "2026-10-28",
+    "score": 46,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "Embedded C",
+      "C++",
+      "Python",
+      "ASIC",
+      "FEA"
+    ],
+    "snippet": "**Robotics Engineering Intern — Limitless Robotics** Limitless Robotics Private Limited, Chennai, invites applications for the position of Robotics Engineering Intern. The successful candidate will work directly with the founder on the design, assembly, programming and testing of"
+  },
+  {
+    "id": "f8aefecbb3",
+    "title": "Electronics Engineer",
+    "company": "L&T Technology Services Ltd.",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=9d6e3a9dc570e01a",
+    "date_posted": "2026-10-28",
+    "score": 46,
+    "tier": "maybe",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "Industrial Manufacturing",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8cc33ec902465d5f66c28ef156dd83b9",
+    "skills": [
+      "FPGA",
+      "PCB Design",
+      "CAN",
+      "I2C",
+      "SPI"
+    ],
+    "snippet": "LTTS India Chennai **Job Description** * Experience in leading power electronic product design and development projects * Good knowledge on electronic product design and development process, from requirement till delivery. * Strong fundamentals in Semiconductor switches (MOSEFT, "
+  },
+  {
+    "id": "c2664d8c71",
+    "title": "Power electronics - HW Engineer",
+    "company": "L&T Technology Services Ltd.",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=bcf750d82f108528",
+    "date_posted": "2026-10-28",
+    "score": 46,
+    "tier": "maybe",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "Industrial Manufacturing",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8cc33ec902465d5f66c28ef156dd83b9",
+    "skills": [
+      "FPGA",
+      "ASIC",
+      "CAN",
+      "I2C",
+      "SPI"
+    ],
+    "snippet": "LTTS India Chennai **Job Description** * Experience in leading power electronic product design and development projects * Good knowledge on electronic product design and development process, from requirement till delivery. * Strong fundamentals in Semiconductor switches (MOSEFT, "
   },
   {
     "id": "c7bfbd6115",
@@ -1835,25 +2061,6 @@
     "snippet": ""
   },
   {
-    "id": "0ec28fd436",
-    "title": "Graduate Engineer Trainee - R&D PTM",
-    "company": "Valeo",
-    "location": "Chennai, Tamil Nadu, India",
-    "area": "Chennai",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4331169803",
-    "date_posted": "2026-10-24",
-    "score": 46,
-    "tier": "maybe",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [],
-    "snippet": ""
-  },
-  {
     "id": "e1008d69fc",
     "title": "Mechanical Design Engineering Intern",
     "company": "Revin Krishi",
@@ -1871,6 +2078,31 @@
     "logo": "",
     "skills": [],
     "snippet": ""
+  },
+  {
+    "id": "562b11f92d",
+    "title": "PCB Designer",
+    "company": "INNOSPACE",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=775f0709da52514a",
+    "date_posted": "2026-10-29",
+    "score": 42,
+    "tier": "maybe",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "₹2.0-4.0 LPA",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "IoT",
+      "PCB Design",
+      "Altium",
+      "KiCad",
+      "CAN"
+    ],
+    "snippet": "Position Summary Innospace Automation Services Pvt. Ltd. is looking for a detail-oriented PCB Designer to create and maintain schematics and PCB layouts for industrial electronics and embedded products. The role focuses on PCB layout, routing, design-rule checks, fabrication outp"
   },
   {
     "id": "72bfeb8c96",
@@ -1915,48 +2147,28 @@
     "snippet": ""
   },
   {
-    "id": "b86936b7c2",
-    "title": "Apprentice - Product Configuration Management",
-    "company": "Philips",
-    "location": "TN, India",
-    "area": "Chennai",
+    "id": "01f0daa2fa",
+    "title": "Field Operations & Technical Intern",
+    "company": "anok private limited",
+    "location": "KA, India",
+    "area": "Bengaluru",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=5c359ee6446676f4",
-    "date_posted": "2026-10-30",
-    "score": 40,
+    "url": "https://in.indeed.com/viewjob?jk=5c77dd4d77b2b618",
+    "date_posted": "2026-10-27",
+    "score": 42,
     "tier": "maybe",
-    "type": "Full-time",
+    "type": "",
     "remote": false,
     "salary": "",
     "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d45e713e8cc531be313cec80489b0f1d",
+    "logo": "",
     "skills": [
-      "CAN"
-    ],
-    "snippet": "### **Job Title** Apprentice - Product Configuration Management ### **Job Description** * Work with stakeholders to create and distribute Catalog in, Conga CPQ and SOFON * Design and implement validation of test models, pricing, sales text in Conga CPQ and SOFON * Establish proce"
-  },
-  {
-    "id": "c416208e9c",
-    "title": "Junior Engineer, Operations Engineering",
-    "company": "Flex",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=5543e9f59025650d",
-    "date_posted": "2026-10-30",
-    "score": 40,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dd948d012d20ca2af35342de0769663a",
-    "skills": [
+      "ASIC",
+      "IoT",
       "CAN",
-      "ARM",
       "RF"
     ],
-    "snippet": "Flex is the diversified manufacturing partner of choice that helps market-leading brands design, build and deliver innovative products that improve the world. A career at Flex offers the opportunity to make a difference and invest in your growth in a respectful, inclusive, and co"
+    "snippet": "Field Operations & Technical Intern — Kannada Speaking **Company:** OORO **Location:** Bengaluru, Karnataka (On-site / Field Work) **Employment Type:** Internship — Full-time / Part-time **Duration:** 3–6 Months **Stipend:** ₹8,000–₹15,000/month (proposed) + Travel Reimbursement "
   },
   {
     "id": "426d89eea4",
@@ -1966,25 +2178,6 @@
     "area": "Chennai",
     "site": "linkedin",
     "url": "https://www.linkedin.com/jobs/view/4441285047",
-    "date_posted": "2026-10-30",
-    "score": 40,
-    "tier": "maybe",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [],
-    "snippet": ""
-  },
-  {
-    "id": "8be97d5f0c",
-    "title": "Apprentice (Technical-Engineer)",
-    "company": "Synopsys Inc",
-    "location": "Bengaluru, Karnataka, India",
-    "area": "Bengaluru",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4485333134",
     "date_posted": "2026-10-30",
     "score": 40,
     "tier": "maybe",
@@ -2020,6 +2213,25 @@
       "Linux"
     ],
     "snippet": "**Job Information** ------------------- * Department Name Platforms & Compilers * Job Type Full time * Date Opened 30/08/2026 * Industry Software Development * Minimum Experience In Years 2 * Maximum Experience In Years 4 * City Chennai * Province Tamil Nadu * Country India * Pos"
+  },
+  {
+    "id": "1dd39e6f52",
+    "title": "Hardware Engineer",
+    "company": "ULOOK",
+    "location": "Bangalore Urban, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4485155797",
+    "date_posted": "2026-10-31",
+    "score": 38,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
   },
   {
     "id": "f662b947e5",
@@ -2098,13 +2310,13 @@
     "snippet": ""
   },
   {
-    "id": "914eb5dca6",
-    "title": "Hardware QA Engineer",
-    "company": "Trinetra Wireless Pvt.Ltd.",
+    "id": "dc384d9e9a",
+    "title": "BMS Hardware Engineer",
+    "company": "Bosch",
     "location": "TN, India",
     "area": "Coimbatore",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=cb277fbf26f495fa",
+    "url": "https://in.indeed.com/viewjob?jk=9afc3fb5c4e6e205",
     "date_posted": "2026-10-29",
     "score": 38,
     "tier": "maybe",
@@ -2112,38 +2324,13 @@
     "remote": false,
     "salary": "",
     "industry": "",
-    "logo": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e4416ed92c2b93443c0fa949ef7c6202",
     "skills": [
-      "ASIC",
-      "IoT",
-      "CAN",
+      "MATLAB",
+      "SPI",
       "RF"
     ],
-    "snippet": "Hardware QA Engineer Company: Angler Technologies Experience: 1–3 Years Job Location:Coimbatore Work Location: In Person Travel:PAN India Job Summary Angler Technologies is looking for a Hardware Installation Engineer to handle the installation, commissioning, troubleshooting, an"
-  },
-  {
-    "id": "2737062265",
-    "title": "Hardware Implementation Engineer",
-    "company": "ANGLER Technologies India Pvt Ltd",
-    "location": "TN, India",
-    "area": "Coimbatore",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=c92f056415ede656",
-    "date_posted": "2026-10-29",
-    "score": 38,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "ASIC",
-      "IoT",
-      "CAN",
-      "RF"
-    ],
-    "snippet": "Hardware Implementation Engineer Company: Angler Technologies Experience: 1–3 Years Job Location:Rmanathapuram, Coimbatore , Tamil Nadu Work Location: In Person Travel: PAN India Job Summary Angler Technologies is looking for a Hardware Installation Engineer to handle the install"
+    "snippet": "**Company Description** **Bosch Global Software Technologies Private Limited** is a 100% owned subsidiary of Robert Bosch GmbH, one of the world's leading global supplier of technology and services, offering end-to-end Engineering, IT and Business Solutions. With over 27,000+ ass"
   },
   {
     "id": "54d25f11ce",
@@ -2197,25 +2384,6 @@
     "site": "linkedin",
     "url": "https://www.linkedin.com/jobs/view/4483595814",
     "date_posted": "2026-10-26",
-    "score": 38,
-    "tier": "maybe",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [],
-    "snippet": ""
-  },
-  {
-    "id": "b8a57d4908",
-    "title": "Hardware Installation Engineer",
-    "company": "Trinetra Careers",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "area": "Coimbatore",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4482617052",
-    "date_posted": "2026-10-24",
     "score": 38,
     "tier": "maybe",
     "type": "",
@@ -2303,28 +2471,26 @@
     "snippet": ""
   },
   {
-    "id": "344d25b6a8",
-    "title": "AV Design Engineer",
-    "company": "Online Instruments India Pvt Ltd",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=6260f6503496391a",
-    "date_posted": "2026-10-31",
-    "score": 26,
+    "id": "86a33de691",
+    "title": "Senior ASIC RTL Design Engineer",
+    "company": "SmartSoC Solutions Pvt Ltd",
+    "location": "Greater Bengaluru Area",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4483534373",
+    "date_posted": "2026-10-26",
+    "score": 30,
     "tier": "maybe",
-    "type": "Full-time",
+    "type": "",
     "remote": false,
-    "salary": "₹8.0-25.0 LPA",
+    "salary": "",
     "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4eefe286ff8c8e214550e081ff73fb53",
+    "logo": "",
     "skills": [
       "ASIC",
-      "CAN",
-      "ARM",
-      "AutoCAD"
+      "RTL Design"
     ],
-    "snippet": "**Job Title:** AV Design Engineer **Location:** Bangalore **About the Role:** We are looking for an AV Design Engineer with 7+ years of experience in designing Audio-Visual solutions for corporate and enterprise environments. The candidate should have good technical knowledge and"
+    "snippet": ""
   },
   {
     "id": "ca5181fa51",
@@ -2333,7 +2499,26 @@
     "location": "Chennai, Tamil Nadu, India",
     "area": "Chennai",
     "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4485145443",
+    "url": "https://www.linkedin.com/jobs/view/4485182373",
+    "date_posted": "2026-11-01",
+    "score": 26,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "845c93cc83",
+    "title": "Wiring Harness Design Engineer",
+    "company": "SEGULA Technologies",
+    "location": "Chennai, Tamil Nadu, India",
+    "area": "Chennai",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4459191814",
     "date_posted": "2026-10-31",
     "score": 26,
     "tier": "maybe",
@@ -2370,30 +2555,6 @@
     "snippet": "# JOB DESCRIPTION ## Mechanical Design Engineer – SPM \\*\\*Company:\\*\\* Synapse Robotics \\*\\*Department:\\*\\* Mechanical Design & Engineering \\*\\*Employment Type:\\*\\* Full-time, Permanent \\*\\*Qualification:\\*\\* B.E./B.Tech or Diploma in Mechanical Engineering / Mechatronics \\*\\*Exp"
   },
   {
-    "id": "96917e87a4",
-    "title": "RF Design Engineer",
-    "company": "HARPY AEROSPACE PRIVATE LIMITED",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=078559fc6911e615",
-    "date_posted": "2026-10-30",
-    "score": 26,
-    "tier": "maybe",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "ANSYS",
-      "PCB Design",
-      "Antenna",
-      "RF"
-    ],
-    "snippet": "**About Harpy Aerospace** Harpy Aerospace is building the future of accessible space technology by developing innovative satellite systems, remote-sensing platforms, and scientific payloads. As we expand our satellite communications and payload capabilities, we are seeking a pass"
-  },
-  {
     "id": "82436fced5",
     "title": "Intern",
     "company": "Valeo",
@@ -2411,27 +2572,6 @@
     "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e306564cd60c7dfada1fae013b78f097",
     "skills": [],
     "snippet": "Valeo is a tech global company, designing breakthrough solutions to reinvent the mobility. We are an automotive supplier partner to automakers and new mobility actors worldwide. Our vision? Invent a greener and more secured mobility, thanks to solutions focusing on intuitive driv"
-  },
-  {
-    "id": "068cd18280",
-    "title": "Electrical and Electronic Engineer",
-    "company": "Archistructural Constructions India P Ltd",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=f318fd3a7625ec20",
-    "date_posted": "2026-10-30",
-    "score": 26,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "RF"
-    ],
-    "snippet": "* Plan and execute marketing campaigns across email, web, and social channels. * Define and track marketing KPIs across channels and campaigns * Report on performance to leadership and use insights to refine strategy * Manage marketing tooling and maintain clean, actionable data."
   },
   {
     "id": "be4579c4be",
@@ -2739,6 +2879,30 @@
     "snippet": ""
   },
   {
+    "id": "689b802897",
+    "title": "Intern - Harness",
+    "company": "Valeo",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=f887292ab69a7f28",
+    "date_posted": "2026-10-26",
+    "score": 26,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e306564cd60c7dfada1fae013b78f097",
+    "skills": [
+      "ASIC",
+      "SolidWorks",
+      "CATIA",
+      "RF"
+    ],
+    "snippet": "Valeo is a tech global company, designing breakthrough solutions to reinvent the mobility. We are an automotive supplier partner to automakers and new mobility actors worldwide. Our vision? Invent a greener and more secured mobility, thanks to solutions focusing on intuitive driv"
+  },
+  {
     "id": "faa8d1ce1b",
     "title": "Design Engineer- CAD",
     "company": "FEMLOGIC TECHNOLOGIES INDIA PVT. LTD.",
@@ -2784,44 +2948,27 @@
     "snippet": "**Who We Are** Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and a"
   },
   {
-    "id": "755987155a",
-    "title": "Mechanical Design Engineer",
-    "company": "Park Controls & Communications Ltd.",
+    "id": "c06e844d5f",
+    "title": "Electrical Engineer",
+    "company": "Siemens Healthineers",
     "location": "KA, India",
     "area": "Bengaluru",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=b72be4234d1cebf1",
+    "url": "https://in.indeed.com/viewjob?jk=7dcb546e8acac0b2",
     "date_posted": "2026-10-26",
-    "score": 26,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "AutoCAD",
-      "SolidWorks"
-    ],
-    "snippet": "### **Job Description** We are looking for Mechanical Design Engineer to execute complete Mechatronics development lifecycle. Should have hands on experience on Solid works, Auto cad. in mechanical design, detailed drafting, and close collaboration with manufacturing and project "
-  },
-  {
-    "id": "5793ddf71d",
-    "title": "Test Design Engineer",
-    "company": "Angel and Genie",
-    "location": "Chennai, Tamil Nadu, India",
-    "area": "Chennai",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4483100391",
-    "date_posted": "2026-10-24",
     "score": 26,
     "tier": "maybe",
     "type": "",
     "remote": false,
     "salary": "",
     "industry": "",
-    "logo": "",
-    "skills": [],
-    "snippet": ""
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3ecb43ed10287302ffa2fe1a8eb1fbe4",
+    "skills": [
+      "CAN",
+      "SPI",
+      "UART",
+      "RF"
+    ],
+    "snippet": "**Job Requirements** Key Responsibilities Tester Development & Integration * Design, build, and maintain subsystem testers, including: o Power distribution and protection o Signal conditioning and measurement o Control, interlocks, and safety circuits * Develop custom test hardwa"
   }
 ]
