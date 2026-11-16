@@ -128,27 +128,6 @@
     "snippet": ""
   },
   {
-    "id": "844085ed6b",
-    "title": "ASIC Verification Engineer",
-    "company": "NVIDIA",
-    "location": "Bengaluru, Karnataka, India",
-    "area": "Bengaluru",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4434698790",
-    "date_posted": "2026-11-08",
-    "score": 74,
-    "tier": "good",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "ASIC"
-    ],
-    "snippet": ""
-  },
-  {
     "id": "47bbd3323a",
     "title": "Power Electronics - Hardware Engineer",
     "company": "L&T Technology Services Ltd.",
@@ -257,6 +236,27 @@
     "snippet": "Prinicpal ASIC design EngineerThis role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office. **Who We Are:** Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies con"
   },
   {
+    "id": "16f99228c0",
+    "title": "CPU RTL Design Engineer",
+    "company": "Qualcomm",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4490248044",
+    "date_posted": "2026-11-15",
+    "score": 62,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "RTL Design"
+    ],
+    "snippet": ""
+  },
+  {
     "id": "4cae625f93",
     "title": "RTL Design Engineer",
     "company": "Oceancore Technologies",
@@ -313,6 +313,27 @@
     "site": "linkedin",
     "url": "https://www.linkedin.com/jobs/view/4489568164",
     "date_posted": "2026-11-13",
+    "score": 62,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "RTL Design"
+    ],
+    "snippet": ""
+  },
+  {
+    "id": "b9c9d0e32f",
+    "title": "RTL Design Engineer",
+    "company": "leadIC Design Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4489433777",
+    "date_posted": "2026-11-10",
     "score": 62,
     "tier": "good",
     "type": "",
@@ -450,6 +471,28 @@
     "snippet": ""
   },
   {
+    "id": "b905d8fbe0",
+    "title": "Embedded Cybersecurity Engineer – Automotive Instrument Cluster (C, RTOS, ISO/SAE 21434)",
+    "company": "Talentgigs",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "area": "Coimbatore",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4490252947",
+    "date_posted": "2026-11-16",
+    "score": 53,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "Embedded C",
+      "RTOS"
+    ],
+    "snippet": ""
+  },
+  {
     "id": "57d18c0329",
     "title": "Embedded C IRC296739",
     "company": "GlobalLogic",
@@ -509,36 +552,14 @@
     "snippet": ""
   },
   {
-    "id": "b905d8fbe0",
-    "title": "Embedded Cybersecurity Engineer – Automotive Instrument Cluster (C, RTOS, ISO/SAE 21434)",
-    "company": "Talentgigs",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "area": "Coimbatore",
+    "id": "36495b5a2c",
+    "title": "Advanced Embedded Engr",
+    "company": "Honeywell Aerospace",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
     "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4489890300",
-    "date_posted": "2026-11-14",
-    "score": 53,
-    "tier": "good",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [
-      "Embedded C",
-      "RTOS"
-    ],
-    "snippet": ""
-  },
-  {
-    "id": "899823cee4",
-    "title": "Embedded Developer - Low Level Driver",
-    "company": "GRUNDFOS",
-    "location": "Chennai, Tamil Nadu, India",
-    "area": "Chennai",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4464653036",
-    "date_posted": "2026-11-12",
+    "url": "https://www.linkedin.com/jobs/view/4490704031",
+    "date_posted": "2026-11-13",
     "score": 53,
     "tier": "good",
     "type": "",
@@ -547,6 +568,27 @@
     "industry": "",
     "logo": "",
     "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "e98c9b6b1d",
+    "title": "ASIC CAD Engineer, Clocks Methodology",
+    "company": "NVIDIA",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4464133778",
+    "date_posted": "2026-11-13",
+    "score": 53,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "ASIC"
+    ],
     "snippet": ""
   },
   {
@@ -630,30 +672,6 @@
       "ASIC"
     ],
     "snippet": "**Company Description** **Bosch Global Software Technologies Private Limited** is a 100% owned subsidiary of Robert Bosch GmbH, one of the world's leading global supplier of technology and services, offering end-to-end Engineering, IT and Business Solutions. With over 27,000+ ass"
-  },
-  {
-    "id": "36495b5a2c",
-    "title": "Advanced Embedded Engr",
-    "company": "Honeywell Aerospace",
-    "location": "KA, India",
-    "area": "Bengaluru",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=13068a41b9035122",
-    "date_posted": "2026-11-11",
-    "score": 53,
-    "tier": "good",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d8e9f566c0749f5f294ada7766f06d27",
-    "skills": [
-      "MATLAB",
-      "Simulink",
-      "CAN",
-      "RF"
-    ],
-    "snippet": "The Job involves working with a highly talented team of Flight Controls engineers, who are working together to make the Avionics of the future. You will be integral in creating system solutions that meet the evolving needs of our customers. The Job involves design, development of"
   },
   {
     "id": "1f6202a42a",
@@ -792,6 +810,65 @@
     "industry": "",
     "logo": "",
     "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "5caea7c628",
+    "title": "Cae Analyst",
+    "company": "Actalent",
+    "location": "Chennai, Tamil Nadu, India",
+    "area": "Chennai",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4490227910",
+    "date_posted": "2026-11-15",
+    "score": 49,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "a380d5faae",
+    "title": "IO and Mixed Signal Circuit Design Engineer",
+    "company": "Broadcom",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4455606588",
+    "date_posted": "2026-11-15",
+    "score": 49,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "fc0931a097",
+    "title": "Server Structural FEA Engineer",
+    "company": "Qualcomm",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4455677926",
+    "date_posted": "2026-11-15",
+    "score": 49,
+    "tier": "good",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "FEA"
+    ],
     "snippet": ""
   },
   {
@@ -947,16 +1024,35 @@
     "snippet": "**Role description** **Lead I - ML Engineering** **Who we are:** At UST, we help the world’s best organizations grow and succeed through transformation. Bringing together the right talent, tools, and ideas, we work with our client to co-create lasting change. Together, with over "
   },
   {
-    "id": "6fc13398e7",
-    "title": "CAE Engineer- Structural",
-    "company": "Ascend Performance Materials",
-    "location": "Chennai, Tamil Nadu, India",
-    "area": "Chennai",
+    "id": "1335adb02b",
+    "title": "Principle Engineer - Electronics",
+    "company": "Collins Aerospace",
+    "location": "Bengaluru, Karnataka, India",
+    "area": "Bengaluru",
     "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4451241949",
-    "date_posted": "2026-11-08",
-    "score": 49,
-    "tier": "good",
+    "url": "https://www.linkedin.com/jobs/view/4466400110",
+    "date_posted": "2026-11-15",
+    "score": 46,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "",
+    "skills": [],
+    "snippet": ""
+  },
+  {
+    "id": "fdac79f03b",
+    "title": "Graduate Engineering Trainee",
+    "company": "Hindustan automations",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "area": "Coimbatore",
+    "site": "linkedin",
+    "url": "https://www.linkedin.com/jobs/view/4489860992",
+    "date_posted": "2026-11-15",
+    "score": 46,
+    "tier": "maybe",
     "type": "",
     "remote": false,
     "salary": "",
@@ -1031,26 +1127,29 @@
     "snippet": ""
   },
   {
-    "id": "3da35c2383",
-    "title": "Electronics Engineer – Board Design & Integration",
-    "company": "Kastech Software Solutions Group",
+    "id": "948ab7dfdf",
+    "title": "Electronics Engineer",
+    "company": "Magna International",
     "location": "KA, India",
     "area": "Bengaluru",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=ca0d81ec0bbe82b5",
+    "url": "https://in.indeed.com/viewjob?jk=65e2898857465ec4",
     "date_posted": "2026-11-13",
     "score": 46,
     "tier": "maybe",
     "type": "Full-time",
     "remote": false,
-    "salary": "₹15.0-20.0 LPA",
+    "salary": "",
     "industry": "",
-    "logo": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/623cc92974de3eef977d2eb24e29e801",
     "skills": [
-      "Altium",
-      "CAN"
+      "ASIC",
+      "MATLAB",
+      "ANSYS",
+      "PCB Design",
+      "Altium"
     ],
-    "snippet": "**Electronics Engineer – Board Design & Integration** **Product:** Mobile **Experience:** 2+ Years **Key Skills & Responsibilities:** * Board-level design, subsystem integration, bring-up and testing. * Schematic design, component selection, BOM management and PCB layout reviews."
+    "snippet": "**Job descriptions may display in multiple languages****based on your language selection.** **What we offer:** ------------------ At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our "
   },
   {
     "id": "c5f4e9eaf5",
@@ -1078,29 +1177,51 @@
     "snippet": "HIRING ALERT | WALK-IN DRIVE – CYIENT CYIENT is Hiring! We are looking for experienced Electronics Engineers with strong expertise in mobile hardware design, integration, debugging, and validation. Job Details - Company: CYIENT - Job Role: Electronics Engineer – Camera, Display &"
   },
   {
-    "id": "948ab7dfdf",
-    "title": "Electronics Engineer",
-    "company": "Magna International",
+    "id": "0702d3304a",
+    "title": "Electronics Engineer – Sensors",
+    "company": "Kastech Software Solutions Group",
     "location": "KA, India",
     "area": "Bengaluru",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=65e2898857465ec4",
+    "url": "https://in.indeed.com/viewjob?jk=7f7ef968017d7c7e",
     "date_posted": "2026-11-13",
     "score": 46,
     "tier": "maybe",
     "type": "Full-time",
     "remote": false,
-    "salary": "",
+    "salary": "₹18.0-20.0 LPA",
     "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/623cc92974de3eef977d2eb24e29e801",
+    "logo": "",
     "skills": [
-      "ASIC",
-      "MATLAB",
-      "ANSYS",
-      "PCB Design",
-      "Altium"
+      "CAN",
+      "I2C",
+      "SPI",
+      "RF"
     ],
-    "snippet": "**Job descriptions may display in multiple languages****based on your language selection.** **What we offer:** ------------------ At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our "
+    "snippet": "**Hiring: Electronics Engineer – Sensors** **Experience:** 5+ Years **Key Skills:** * Accelerometer, Gyroscope, Magnetometer, Proximity, Hall & Barometer sensors. * I2C/SPI interfaces, sensor integration, calibration & power management. * Board bring-up, schematic/PCB reviews & h"
+  },
+  {
+    "id": "135e6da04b",
+    "title": "Electronics Engineer – Audio & Peripheral Integration",
+    "company": "Kastech Software Solutions Group",
+    "location": "KA, India",
+    "area": "Bengaluru",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=f8de23b4ec4f498f",
+    "date_posted": "2026-11-13",
+    "score": 46,
+    "tier": "maybe",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "₹18.0-20.0 LPA",
+    "industry": "",
+    "logo": "",
+    "skills": [
+      "PCB Design",
+      "CAN",
+      "RF"
+    ],
+    "snippet": "**Electronics Engineer – Audio & Peripheral Integration** **Experience:** 5+ Years **Key Skills & Responsibilities:** * Audio codecs, amplifiers, microphones, speakers and wired/wireless connectivity modules. * Integration of keypads, buttons, vibration/haptic drivers, GPIO, SIM "
   },
   {
     "id": "7f7e67ccb8",
@@ -1266,25 +1387,6 @@
     "snippet": "**Job Title:** Technical Support Engineer – Hardware & CCTV (Field Role) **Location:** Gandhipuram, Coimbatore, Tamil Nadu **Work Mode:** Full-Time | Field & In-Office **Eligibility** * Diploma in Computer Science / IT * B.Sc. (CS / IT) or BCA * Freshers welcome – training provid"
   },
   {
-    "id": "e242efb697",
-    "title": "Graduate Propulsion Engineer",
-    "company": "Samveksha",
-    "location": "Chennai, Tamil Nadu, India",
-    "area": "Chennai",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4489426433",
-    "date_posted": "2026-11-10",
-    "score": 46,
-    "tier": "maybe",
-    "type": "",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "",
-    "skills": [],
-    "snippet": ""
-  },
-  {
     "id": "0ec28fd436",
     "title": "Graduate Engineer Trainee - R&D PTM",
     "company": "Valeo",
@@ -1326,8 +1428,31 @@
     "snippet": "Infrastructure Development Engineer (Freshers Welcome) **Company:** ZEON Electric Private Limited (ZEON Charging) ZEON Charging is one of South India's leading Charge Point Operators (CPO), dedicated to building reliable EV charging infrastructure and accelerating the adoption of"
   },
   {
-    "id": "5fae9a930c",
-    "title": "EPLAN Electrical Design Engineer [WFO-Coimbatore]",
+    "id": "6157bd49dc",
+    "title": "DFT ENGINEER",
+    "company": "Wipro",
+    "location": "KA, India",
+    "area": "Bengaluru",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=66a96ca2687d30f2",
+    "date_posted": "2026-11-16",
+    "score": 42,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8b2cd63e1e41ba18596880aca0e609bc",
+    "skills": [
+      "ASIC",
+      "SPI",
+      "RF"
+    ],
+    "snippet": "**Job Title:** **DFT ENGINEER** =============================== City: Bengaluru State/Province: Karnataka Posting Start Date: 11/15/26 Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutio"
+  },
+  {
+    "id": "0df3e6a486",
+    "title": "EPLAN Electrical Design Engineer [WFO-Coimbatore] Hot",
     "company": "AES Technologies India Pvt Limited",
     "location": "Coimbatore, Tamil Nadu, India",
     "area": "Coimbatore",
@@ -1537,6 +1662,31 @@
     "snippet": "**Please Note:** **1. If you are a first time user, please create your candidate login account before you apply for a job.** **2. If you already have a Candidate Account, please Sign-In before you apply.** **Job Description:** -------------------- **PCIe Verification Engineer** S"
   },
   {
+    "id": "e3207498e9",
+    "title": "GBM - Public Dept-Bengaluru-Associate-Quantitative Engineering",
+    "company": "Goldman Sachs",
+    "location": "KA, India",
+    "area": "Bengaluru",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=697a8d9b1d02d7fa",
+    "date_posted": "2026-11-12",
+    "score": 38,
+    "tier": "maybe",
+    "type": "",
+    "remote": false,
+    "salary": "",
+    "industry": "Banks And Financial Services, Banks And Financial Services",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b7ac5861c1a32f420ae39e799363674d",
+    "skills": [
+      "C++",
+      "Python",
+      "ASIC",
+      "FEA",
+      "Linux"
+    ],
+    "snippet": "**Goldman Sachs Electronic Market Making – Software Engineer – Associate – Bengaluru** The Electronic Market Making Cash Trading team systematically provides liquidity in US Equities and ETFs, both on-exchange and to low-touch client flow. The team leverages quantitative research"
+  },
+  {
     "id": "01e260d92b",
     "title": "BMS Hardware Engineer",
     "company": "Zeno",
@@ -1719,26 +1869,25 @@
     "snippet": "**Career Area:** Engineering **Job Description:** **Your Work Shapes the World at Caterpillar Inc.** When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world b"
   },
   {
-    "id": "0e900eee1c",
-    "title": "Instrumentation Engineer",
-    "company": "Desirous Global Consulting",
+    "id": "a54f847fa2",
+    "title": "Electrical Site Engineer",
+    "company": "Vensysleap Engineering Services",
     "location": "TN, India",
-    "area": "Chennai",
+    "area": "Coimbatore",
     "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=d37fbbdae7ccbeb5",
-    "date_posted": "2026-11-10",
-    "score": 30,
+    "url": "https://in.indeed.com/viewjob?jk=50dcdab7a0e092ae",
+    "date_posted": "2026-11-16",
+    "score": 26,
     "tier": "maybe",
     "type": "Full-time",
     "remote": false,
-    "salary": "₹0.0-0.0 LPA",
+    "salary": "",
     "industry": "",
     "logo": "",
     "skills": [
-      "ASIC",
-      "SPI"
+      "CAN"
     ],
-    "snippet": "**Job description** ------------------- Experience of interpreting process PID & Project Specification. * AEI basic and detail engineering in COMOS engineering platform is highly preferable. Other tools like Smart Plant Instrumentation (SPI) considerable. * Hands on experience in"
+    "snippet": "ELECTRICAL SITE ENGINEER **Experience:** 1–10 Years **Location:** Coimbatore, Tamil Nadu **Industry:** Oil & Gas / EPC Projects JOB SUMMARY Responsible for supervising and coordinating electrical installation, testing, commissioning, and maintenance activities at project sites. T"
   },
   {
     "id": "792e4cf5d0",
@@ -1800,23 +1949,26 @@
     "snippet": "Job Summary V-Robotics is hiring an Electrical Engineer for our Kanjikode (Palakkad) office. The role covers electrical work on our products in-house as well as installation and maintenance work in the field at customer sites. Responsibilities - Design, wire and test electrical s"
   },
   {
-    "id": "88bb3e17fe",
-    "title": "Engineer - Electrical Engineering",
-    "company": "GE Vernova",
-    "location": "Bengaluru, Karnataka, India",
-    "area": "Bengaluru",
-    "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4489584929",
+    "id": "ce274d14e6",
+    "title": "Drone / UAV Development Engineer Intern",
+    "company": "Vaanvijay",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=68013aab4aa87e63",
     "date_posted": "2026-11-13",
     "score": 26,
     "tier": "maybe",
-    "type": "",
+    "type": "Internship",
     "remote": false,
     "salary": "",
     "industry": "",
     "logo": "",
-    "skills": [],
-    "snippet": ""
+    "skills": [
+      "ASIC",
+      "CAN"
+    ],
+    "snippet": "**Vaan Vijay Kinetics Private Limited is hiring a Drone / UAV Development Engineer Intern.** **Location** · Chennai, Tamil Nadu **Work mode** · Work from office **Duration** · 6 months **Stipend** · Provided Work with our engineering team to build and test drone prototypes. You’l"
   },
   {
     "id": "3a5086f7f3",
@@ -1904,7 +2056,7 @@
     "location": "Bengaluru, Karnataka, India",
     "area": "Bengaluru",
     "site": "linkedin",
-    "url": "https://www.linkedin.com/jobs/view/4479416667",
+    "url": "https://www.linkedin.com/jobs/view/4479427165",
     "date_posted": "2026-11-11",
     "score": 26,
     "tier": "maybe",
@@ -1980,6 +2132,28 @@
     "snippet": ""
   },
   {
+    "id": "16a1e97f14",
+    "title": "Manufacturing Design Engineer - Chennai",
+    "company": "Apple",
+    "location": "TN, India",
+    "area": "Chennai",
+    "site": "indeed",
+    "url": "https://in.indeed.com/viewjob?jk=4f35d17c9f91be68",
+    "date_posted": "2026-11-10",
+    "score": 26,
+    "tier": "maybe",
+    "type": "Full-time",
+    "remote": false,
+    "salary": "",
+    "industry": "",
+    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0543909b7f6029855455e1cbb6a02a7f",
+    "skills": [
+      "FEA",
+      "SPI"
+    ],
+    "snippet": "Summary Imagine what you could do here. At Apple, innovative ideas quickly become extraordinary products, services, and customer experiences. This is where individual imaginations and experiences gather, leading to great work. Bring passion and dedication to your job, and there's"
+  },
+  {
     "id": "5de83f3e2e",
     "title": "Data Engineer, Data Platforms",
     "company": "S&P Global",
@@ -2003,28 +2177,6 @@
       "RF"
     ],
     "snippet": "**About the Role:** =================== **Grade Level (for internal use):** 10 **Key Responsibilities** **Data Pipeline Transition and Platform Delivery** * Partner with Databricks and platform teams to transition existing pipelines into the target enterprise data platform. * Pro"
-  },
-  {
-    "id": "16a1e97f14",
-    "title": "Manufacturing Design Engineer - Chennai",
-    "company": "Apple",
-    "location": "TN, India",
-    "area": "Chennai",
-    "site": "indeed",
-    "url": "https://in.indeed.com/viewjob?jk=4f35d17c9f91be68",
-    "date_posted": "2026-11-10",
-    "score": 26,
-    "tier": "maybe",
-    "type": "Full-time",
-    "remote": false,
-    "salary": "",
-    "industry": "",
-    "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0543909b7f6029855455e1cbb6a02a7f",
-    "skills": [
-      "FEA",
-      "SPI"
-    ],
-    "snippet": "Summary Imagine what you could do here. At Apple, innovative ideas quickly become extraordinary products, services, and customer experiences. This is where individual imaginations and experiences gather, leading to great work. Bring passion and dedication to your job, and there's"
   },
   {
     "id": "46cf741c31",
@@ -2063,10 +2215,9 @@
     "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6175623cd6c57828aac180b1a4ea76fc",
     "skills": [
       "C++",
-      "Python",
       "CAN",
       "RF"
     ],
-    "snippet": "**Software Engineer 2** The Software Engineering team delivers next-generation application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most "
+    "snippet": "Software Engineer 2The Software Engineering team delivers next-generation application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics - all with the most advan"
   }
 ]
